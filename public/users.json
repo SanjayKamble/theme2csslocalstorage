@@ -1,0 +1,12 @@
+{
+    "users":[
+        {
+            "name":"sanjay",
+            "mode":"dark"
+        },
+        {
+            "name":"satish",
+            "mode":"light"
+        }
+    ]
+}
